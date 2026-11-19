@@ -1,0 +1,27 @@
+{
+  "intro": {
+    "start": 0.5,
+    "duration": 5.099
+  },
+  "feed": {
+    "start": 6.049,
+    "duration": 6.379
+  },
+  "same": {
+    "start": 12.877,
+    "duration": 2.667
+  },
+  "change": {
+    "start": 15.994,
+    "duration": 5.653
+  },
+  "oneway": {
+    "start": 22.097,
+    "duration": 3.584
+  },
+  "street": {
+    "start": 26.131,
+    "duration": 1.301
+  },
+  "_total": 27.883
+}
