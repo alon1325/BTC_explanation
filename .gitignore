@@ -1,0 +1,15 @@
+# Kokoro TTS model weights (~350 MB, exceed GitHub's 100 MB limit) - download separately
+models/
+
+# Rendered outputs
+out/
+*.wav
+!video/public/*.wav
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+node_modules/
